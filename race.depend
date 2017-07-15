@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1445767242 source:c:\users\nischit\desktop\nischit\codeblock\game\race\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<time.h>
+	<ctime>
+
